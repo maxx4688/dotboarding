@@ -1,10 +1,10 @@
 {
+    "header": {
+        "name": "amo.png",
+        "path": "images/amo.png",
+        "githubRawUrl": "https://raw.githubusercontent.com/{username}/{repo}/{branch}/images/amo.png"
+      },
   "images": [
-    {
-      "name": "amo.png",
-      "path": "images/amo.png",
-      "githubRawUrl": "https://raw.githubusercontent.com/{username}/{repo}/{branch}/images/amo.png"
-    },
     {
       "name": "curve.png",
       "path": "images/curve.png",
