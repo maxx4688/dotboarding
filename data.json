@@ -14,22 +14,22 @@
         {
             "name": "curve.png",
             "path": "images/curve.png",
-            "githubRawUrl": "https://raw.githubusercontent.com/maxx4688/dotboarding/f98aabc92426a686894a97b2bb38420b4af728c7/images/curve.png"
+            "githubRawUrl": "https://raw.githubusercontent.com/maxx4688/dotboarding/main/images/curve.png"
         },
         {
             "name": "hill.png",
             "path": "images/hill.png",
-            "githubRawUrl": "https://raw.githubusercontent.com/maxx4688/dotboarding/f98aabc92426a686894a97b2bb38420b4af728c7/images/hill.png"
+            "githubRawUrl": "https://raw.githubusercontent.com/maxx4688/dotboarding/main/images/hill.png"
         },
         {
             "name": "himalaya.png",
             "path": "images/himalaya.png",
-            "githubRawUrl": "https://raw.githubusercontent.com/maxx4688/dotboarding/f98aabc92426a686894a97b2bb38420b4af728c7/images/himalaya.png"
+            "githubRawUrl": "https://raw.githubusercontent.com/maxx4688/dotboarding/main/images/himalaya.png"
         },
         {
             "name": "vector.png",
             "path": "images/vector.png",
-            "githubRawUrl": "https://raw.githubusercontent.com/maxx4688/dotboarding/f98aabc92426a686894a97b2bb38420b4af728c7/images/vector.png"
+            "githubRawUrl": "https://raw.githubusercontent.com/maxx4688/dotboarding/main/images/vector.png"
         }
     ]
 }
