@@ -1,0 +1,31 @@
+{
+  "images": [
+    {
+      "name": "amo.png",
+      "path": "images/amo.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/{username}/{repo}/{branch}/images/amo.png"
+    },
+    {
+      "name": "curve.png",
+      "path": "images/curve.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/{username}/{repo}/{branch}/images/curve.png"
+    },
+    {
+      "name": "hill.png",
+      "path": "images/hill.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/{username}/{repo}/{branch}/images/hill.png"
+    },
+    {
+      "name": "himalaya.png",
+      "path": "images/himalaya.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/{username}/{repo}/{branch}/images/himalaya.png"
+    },
+    {
+      "name": "vector.png",
+      "path": "images/vector.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/{username}/{repo}/{branch}/images/vector.png"
+    }
+  ],
+  "basePath": "images/",
+  "githubBaseUrl": "https://raw.githubusercontent.com/{username}/{repo}/{branch}/images/"
+}
