@@ -1,0 +1,30 @@
+{
+    "author": "Ashish",
+    "userName": "maxx4688",
+    "status": {
+        "result": "success",
+        "code": 200
+    },
+    "walls": [
+        {
+            "name": "Quote 1",
+            "path": "todoo_walls/quote1.png",
+            "githubRawUrl": "https://raw.githubusercontent.com/maxx4688/dotboarding/main/todoo_walls/quote1.png?v=2"
+        },
+        {
+            "name": "Quote 2",
+            "path": "todoo_walls/quotw2.png",
+            "githubRawUrl": "https://raw.githubusercontent.com/maxx4688/dotboarding/main/todoo_walls/quotw2.png?v=2"
+        },
+        {
+            "name": "Quote 3",
+            "path": "todoo_walls/quote3.png",
+            "githubRawUrl": "https://raw.githubusercontent.com/maxx4688/dotboarding/main/todoo_walls/quote3.png?v=2"
+        },
+        {
+            "name": "Quote 4",
+            "path": "todoo_walls/quote4.png",
+            "githubRawUrl": "https://raw.githubusercontent.com/maxx4688/dotboarding/main/todoo_walls/quote4.png?v=2"
+        }
+    ]
+}
